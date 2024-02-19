@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Computer Sciente Student at University of Padua
-### Software developer at [aKite ](https://akite.net) ![aKite logo](img/akite.png?raw=true "Title")
+### Software developer at [aKite ](https://akite.net) ![aKite logo](img/akite_logo.jpeg?raw=true)
 
 
 
