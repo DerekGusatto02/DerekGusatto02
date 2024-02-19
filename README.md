@@ -23,8 +23,21 @@ Here are some ideas to get you started:
 ### Languages and Tools 
 Thanks to my studies and my work I have learned several
 Programming languages: 
-<img src="img/c.png" alt="C" width="300" height="200">
-<img src="img/c++.png" alt="C++" width="300" height="200">
-<img src="img/C#.png" alt="C#" width="300" height="200">
-<img src="img/java.png" alt="Java" width="300" height="200">
-<img src="img/python.png" alt="Python" width="300" height="200">
+[<img src="img/c.png" alt="C" width="50" height="50">]()
+[<img src="img/c++.png" alt="C++" width="50" height="50">]()
+[<img src="img/C#.png" alt="C#" width="50" height="50">]()
+[<img src="img/java.png" alt="Java" width="50" height="50">]()
+[<img src="img/python.png" alt="Python" width="50" height="50">]()
+[<img src="img/latex.png" alt="Latex" width="50" height="50">]()
+[<img src="img/php.png" alt="php" width="50" height="50">]()
+[<img src="img/js.png" alt="javascript" width="50" height="50">]()
+
+Frameworks:
+[<img src="img/dotnet.png" alt="Dot Net" width="50" height="50">]()
+[<img src="img/qt.png" alt="Qt" width="50" height="50">]()
+
+Tools:
+[<img src="img/mysql.png" alt="Dot Net" width="50" height="50">]()
+[<img src="img/postgres.png" alt="Qt" width="50" height="50">]()
+[<img src="img/arduino.png" alt="Dot Net" width="50" height="50">]()
+[<img src="img/git.png" alt="Qt" width="50" height="50">]()
