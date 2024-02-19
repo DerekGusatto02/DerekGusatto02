@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Languages and Tools 
 Thanks to my studies and my work I have learned several
 - Programming languages: 
-<br>
+
 [<img src="img/c.png" alt="C" width="50" height="50">](https://www.cprogramming.com)
 [<img src="img/c++.png" alt="C++" width="50" height="50">](https://cplusplus.com)
 [<img src="img/csharp.png" alt="C#" width="50" height="50">](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -34,12 +34,12 @@ Thanks to my studies and my work I have learned several
 [<img src="img/js.png" alt="javascript" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - Frameworks:
-<br>
+
 [<img src="img/dotnet.png" alt="Dot Net" width="50" height="50">](https://dotnet.microsoft.com/en-us/)
 [<img src="img/qt.png" alt="Qt" width="60" height="50">](https://www.qt.io)
 
 - Tools:
-<br>
+
 [<img src="img/mysql.png" alt="Dot Net" width="60" height="50">](https://www.mysql.com)
 [<img src="img/postgres.png" alt="Qt" width="60" height="50">](https://www.postgresql.org)
 [<img src="img/arduino.png" alt="Dot Net" width="60" height="50">](https://www.arduino.cc)
