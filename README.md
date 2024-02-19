@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Computer Sciente Student at University of Padua
-### Software developer at [aKite ](https://akite.net) ![aKite logo](img/akite_logo.jpeg?raw=true)
+### 💻 Computer Sciente Student at University of Padua
+### 👨🏼‍💻 Software developer at [aKite](https://akite.net)
 
+#### 📫 How to reach me: [contact list](https://linktr.ee/derekgusatto)
 
-
-![Instagram](img/instagram.png)(https://www.instagram.com/derek.gusatto/)
-![Twitter / X](img/twitter.png)(https://www.instagram.com/derek.gusatto/)
-![Linkedin](img/linkedin.png)(https://www.linkedin.com/in/derek-gusatto-9a3402216/)
+### Languages and Tools 
+Thanks to my studies and my work I have learned several
+Programming languages: 
+![C](img/c.png){width=300 height=200}
+![C++](img/c++.png){width=300 height=200}
+![C#](img/C#.png){width=300 height=200}
+![Java](img/java.png){width=300 height=200}
+![Python](img/python.png){width=300 height=200}
+Frameworks: 
+Tools: 
