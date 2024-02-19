@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 
+![Instagram](img/instagram.png)(https://www.instagram.com/derek.gusatto/)
+![Twitter / X](img/twitter.png)(https://www.instagram.com/derek.gusatto/)
+![Linkedin](img/linkedin.png)(https://www.linkedin.com/in/derek-gusatto-9a3402216/)
