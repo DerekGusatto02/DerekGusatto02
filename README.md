@@ -23,10 +23,8 @@ Here are some ideas to get you started:
 ### Languages and Tools 
 Thanks to my studies and my work I have learned several
 Programming languages: 
-![C](img/c.png){width=300 height=200}
-![C++](img/c++.png){width=300 height=200}
-![C#](img/C#.png){width=300 height=200}
-![Java](img/java.png){width=300 height=200}
-![Python](img/python.png){width=300 height=200}
-Frameworks: 
-Tools: 
+<img src="img/c.png" alt="C" width="300" height="200">
+<img src="img/c++.png" alt="C++" width="300" height="200">
+<img src="img/C#.png" alt="C#" width="300" height="200">
+<img src="img/java.png" alt="Java" width="300" height="200">
+<img src="img/python.png" alt="Python" width="300" height="200">
