@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💻 Computer Sciente Student at University of Padua
-### 👨🏼‍💻 Software developer at [aKite](https://akite.net)
+### 👨🏼‍💻 Software developer at [<img src="img/akite_logo.jpeg" alt="akite logo" width="60" height="60">](https://akite.net)
 
 #### 📫 How to reach me: [contact list](https://linktr.ee/derekgusatto)
 
