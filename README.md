@@ -32,6 +32,7 @@ Thanks to my studies and my work I have learned several
 [<img src="img/latex.png" alt="Latex" width="60" height="50">](https://www.latex-project.org)
 [<img src="img/php.png" alt="php" width="50" height="50">](https://www.php.net)
 [<img src="img/js.png" alt="javascript" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="img/vb.png" alt="visual basic" width="50" height="50">](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 - Frameworks:
 
