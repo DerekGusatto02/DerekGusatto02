@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Computer Sciente Student at University of Padua & Working a [aKite](https://akite.net)
+### Computer Sciente Student at University of Padua
+### Working a [aKite](https://akite.net)
 
 
 
