@@ -24,21 +24,21 @@ Here are some ideas to get you started:
 Thanks to my studies and my work I have learned several
 Programming languages: 
 <br>
-[<img src="img/c.png" alt="C" width="50" height="50">]()
-[<img src="img/c++.png" alt="C++" width="50" height="50">]()
-[<img src="img/csharp.png.png" alt="C#" width="50" height="50">]()
-[<img src="img/java.png" alt="Java" width="50" height="50">]()
-[<img src="img/python.png" alt="Python" width="50" height="50">]()
-[<img src="img/latex.png" alt="Latex" width="50" height="50">]()
-[<img src="img/php.png" alt="php" width="50" height="50">]()
-[<img src="img/js.png" alt="javascript" width="50" height="50">]()
+[<img src="img/c.png" alt="C" width="50" height="50">](https://www.cprogramming.com)
+[<img src="img/c++.png" alt="C++" width="50" height="50">](https://cplusplus.com)
+[<img src="img/csharp.png" alt="C#" width="50" height="50">](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img src="img/java.png" alt="Java" width="50" height="50">](https://www.java.com/en/)
+[<img src="img/python.png" alt="Python" width="50" height="50">](https://www.python.org)
+[<img src="img/latex.png" alt="Latex" width="50" height="50">](https://www.latex-project.org)
+[<img src="img/php.png" alt="php" width="50" height="50">](https://www.php.net)
+[<img src="img/js.png" alt="javascript" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <br>
 Frameworks:
-[<img src="img/dotnet.png" alt="Dot Net" width="50" height="50">]()
-[<img src="img/qt.png" alt="Qt" width="50" height="50">]()
+[<img src="img/dotnet.png" alt="Dot Net" width="50" height="50">](https://dotnet.microsoft.com/en-us/)
+[<img src="img/qt.png" alt="Qt" width="50" height="50">](https://www.qt.io)
 <br>
 Tools:
-[<img src="img/mysql.png" alt="Dot Net" width="50" height="50">]()
-[<img src="img/postgres.png" alt="Qt" width="50" height="50">]()
-[<img src="img/arduino.png" alt="Dot Net" width="50" height="50">]()
-[<img src="img/git.png" alt="Qt" width="50" height="50">]()
+[<img src="img/mysql.png" alt="Dot Net" width="50" height="50">](https://www.mysql.com)
+[<img src="img/postgres.png" alt="Qt" width="50" height="50">](https://www.postgresql.org)
+[<img src="img/arduino.png" alt="Dot Net" width="50" height="50">](https://www.arduino.cc)
+[<img src="img/git.png" alt="Qt" width="50" height="50">](https://git-scm.com)
