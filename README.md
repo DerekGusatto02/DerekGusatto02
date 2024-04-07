@@ -44,4 +44,4 @@ Thanks to my studies and my work I have learned several
 [<img src="img/mysql.png" alt="Dot Net" width="60" height="50">](https://www.mysql.com)
 [<img src="img/postgres.png" alt="Qt" width="60" height="50">](https://www.postgresql.org)
 [<img src="img/arduino.png" alt="Dot Net" width="60" height="50">](https://www.arduino.cc)
-[<img src="img/git.png" alt="Qt" width="50" height="50">](https://git-scm.com)
+[<img src="img/git.png" alt="Qt" width="60" height="50">](https://git-scm.com)
