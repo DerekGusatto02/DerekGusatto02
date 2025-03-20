@@ -16,28 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### 💻 Computer Sciente Student at University of Padua
-### 👨🏼‍💻 Software developer at [<img src="img/akite_logo.jpeg" alt="akite logo" width="60" height="60">](https://akite.net)
+### 👨🏼‍💻 Software developer at [akite](https://akite.net)
 
-#### 📫 How to reach me: [contact list](https://linktr.ee/derekgusatto)
+#### 📫 Reach me on [my website]([https://www.derekgusatto.it]
 
-### Languages and Tools 
-Thanks to my studies and my work I have learned several
-- Programming languages: 
 
-[<img src="img/c.png" alt="C" width="50" height="50">](https://www.cprogramming.com)
-[<img src="img/c++.png" alt="C++" width="50" height="50">](https://cplusplus.com)
-[<img src="img/csharp.png" alt="C#" width="50" height="50">](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img src="img/java.png" alt="Java" width="50" height="60">](https://www.java.com/en/)
-[<img src="img/python.png" alt="Python" width="50" height="50">](https://www.python.org)
-[<img src="img/latex.png" alt="Latex" width="60" height="50">](https://www.latex-project.org)
-[<img src="img/php.png" alt="php" width="50" height="50">](https://www.php.net)
-[<img src="img/js.png" alt="javascript" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="img/vb.png" alt="visual basic" width="50" height="50">](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
-
-- Frameworks:
-
-[<img src="img/dotnet.png" alt="Dot Net" width="50" height="50">](https://dotnet.microsoft.com/en-us/)
-[<img src="img/qt.png" alt="Qt" width="60" height="50">](https://www.qt.io)
 
 - Tools:
 
