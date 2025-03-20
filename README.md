@@ -19,12 +19,3 @@ Here are some ideas to get you started:
 ### 👨🏼‍💻 Software developer at [akite](https://akite.net)
 
 #### 📫 Reach me on [my website]([https://www.derekgusatto.it]
-
-
-
-- Tools:
-
-[<img src="img/mysql.png" alt="Dot Net" width="60" height="50">](https://www.mysql.com)
-[<img src="img/postgres.png" alt="Qt" width="60" height="50">](https://www.postgresql.org)
-[<img src="img/arduino.png" alt="Dot Net" width="60" height="50">](https://www.arduino.cc)
-[<img src="img/git.png" alt="Qt" width="60" height="50">](https://git-scm.com)
