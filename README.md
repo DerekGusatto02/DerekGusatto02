@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### 💻 Computer Sciente Student at University of Padua
 ### 👨🏼‍💻 Software developer at [akite](https://akite.net)
 
-#### 📫 Reach me on [my website]([https://www.derekgusatto.it]
+#### 📫 Reach me on [my website](https://www.derekgusatto.it)
