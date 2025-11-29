@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### 💻 Computer Sciente Student at University of Padua
-### 👨🏼‍💻 Software developer at [akite](https://akite.net)
+### 👨🏼‍💻 IT Consultant at [Cluster Reply](https://www.reply.com/cluster-reply-italy/it)
 
 #### 📫 Reach me on [my website](https://www.derekgusatto.it)
